@@ -1,0 +1,3 @@
+[submodule "JavaTest"]
+	path = JavaTest
+	url = https://github.com/fortessnsktest/JavaTest.git
